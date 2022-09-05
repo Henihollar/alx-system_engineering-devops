@@ -1,0 +1,1 @@
+Script about redirections
